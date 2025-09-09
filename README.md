@@ -20,8 +20,8 @@ As part of my **Data Science Internship at SkillCraft Technology**, I performed 
 - Seaborn, Matplotlib
 
 ## 🔹 Files
-- [Jupyter Notebook: Task 2 Titanic EDA](./Task2_Titanic_EDA.ipynb)  → Jupyter Notebook with code and plots
-- [Dataset: train.csv](./train.csv)   → Titanic dataset (from Kaggle)
+- [Jupyter Notebook: Task 2 Titanic EDA](Task_2.ipynb)  → Jupyter Notebook with code and plots
+- [Dataset: train.csv](titanic_dataset.csv)   → Titanic dataset 
 
 ---
 
